@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently a two-years master student at Peking University!
+🔭 I’m currently a second-year master student at Peking University!
 
 🌱 Welcome to visit my <a href="https://wang-xiaodong1899.github.io" target="_blank">Page </a>.
 
