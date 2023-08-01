@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 
 🌱 Welcome to visit my <a href="https://wang-xiaodong1899.github.io" target="_blank">Homepage </a>.
 
+✨✨✨✨ I am looking for an opportunity to be a **Ph.D. candidate starting 2024**, focusing on **Multimodal training and LLM + Vision**. If you have any related opportunities, I would very appreciate it if you reach out to me via email.
+
 ![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wang-xiaodong1899&show_icons=true&theme=merko)
 
