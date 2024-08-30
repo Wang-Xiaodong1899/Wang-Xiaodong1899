@@ -10,11 +10,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/wang-xiaodong1899?tab=followers"><img src="https://img.shields.io/github/followers/wang-xiaodong1899"></a>
 <a href="mailto:wangxd220@gmail.com"><img src="https://img.shields.io/badge/Email-wangxd220@gmail.com-pink" alt="Email" /></a>
 
-🔭 I’m currently a second-year master student at Peking University!   
+🔭 I’m currently a first-year PhD student at Peking University! My supervisor is Assistant Professor Peixi Peng(https://www.ece.pku.edu.cn/info/1046/2801.htm), I am also a joint PdD student at Pengcheng Lab (https://www.pcl.ac.cn/).
 
 🌱 Welcome to visit my <a href="https://wang-xiaodong1899.github.io" target="_blank">Homepage </a>.
-
-✨✨✨✨ I am looking for an opportunity to be a **Ph.D. candidate starting 2024**, focusing on **Multimodal training and LLM + Vision**. If you have any related opportunities, I would very appreciate it if you reach out to me via email.
 
 ![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wang-xiaodong1899&show_icons=true&theme=merko)
 
