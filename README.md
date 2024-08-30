@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/wang-xiaodong1899?tab=followers"><img src="https://img.shields.io/github/followers/wang-xiaodong1899"></a>
 <a href="mailto:wangxd220@gmail.com"><img src="https://img.shields.io/badge/Email-wangxd220@gmail.com-pink" alt="Email" /></a>
 
-🔭 I’m currently a first-year PhD student at Peking University! My supervisor is Assistant Professor Peixi Peng(https://www.ece.pku.edu.cn/info/1046/2801.htm), I am also a joint PdD student at Pengcheng Lab (https://www.pcl.ac.cn/).
+🔭 I’m currently a first-year PhD student at Peking University! My supervisor is Assistant Professor Peixi Peng(https://www.ece.pku.edu.cn/info/1046/2801.htm), and I am also a joint PhD student at Pengcheng Lab (https://www.pcl.ac.cn/).
 
 🌱 Welcome to visit my <a href="https://wang-xiaodong1899.github.io" target="_blank">Homepage </a>.
 
