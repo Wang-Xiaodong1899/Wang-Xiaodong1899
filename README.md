@@ -1,4 +1,10 @@
-### Hi 👋 This is Xiaodong
+## Hi 👋 This is Xiaodong
+
+
+### News
+- **[2026/10/05]** 👋👋👋 We released and open-sourced our new work ["SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models"](https://arxiv.org/abs/2610.06598), **a novel motion distillation framework for robot world models**. Feel free to [check](https://github.com/Wang-Xiaodong1899/SimForcing).
+- **[2026/06/28]** 👋👋👋 We released and open-sourced our new work, extending video reasoning from text-based reasoning to **reasoning over explicit multimodal elements**, "[Incentivizing Versatile Video Reasoning in MLLMs via Data-Efficient Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Incentivizing_Versatile_Video_Reasoning_in_MLLMs_via_Data-Efficient_Reinforcement_Learning_CVPR_2026_paper.html)" at CVPR 2026. Feel free to [check](https://github.com/Wang-Xiaodong1899/VideoReasoner).
+
 
 <!--
 **Wang-xd1899/Wang-xd1899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
